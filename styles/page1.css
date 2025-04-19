@@ -40,6 +40,7 @@
 .card {
   background-color: #ffffff;
   border-radius: 12px;
+  display: flex;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -49,6 +50,7 @@
 }
 
 /* Icon styling */
+
 .icon img {
   max-width: 100%;
   height: auto;
